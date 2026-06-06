@@ -64,12 +64,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhuitron&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="My GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuitron&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuitron&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="98%" />
 </p>
 
