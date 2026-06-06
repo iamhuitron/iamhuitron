@@ -7,7 +7,7 @@
     I love building clean, highly optimized mobile and web applications with strong data logic.
   </p>
   
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhuitron&title=Profile+Views&edge_flat=false&style=flat-square&label_color=%232196f3&color=%23181717" alt="Visitor Counter" />
+
 
 </div>
 ---
