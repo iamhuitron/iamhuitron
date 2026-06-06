@@ -1,14 +1,13 @@
-## Hi there 👋
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Miguel+Delgado+Huitron 👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
 
   <p>
     I merge my technical background in **Fiscal and Accounting Computing** with formal **Informatics training at UNAM (FES Cuautitlán)**.
     I love building clean, highly optimized mobile and web applications with strong data logic.
   </p>
   
-  <img src="https://profile-counter.glitch.me/iamhuitron/count.svg" alt="Visitor Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhuitron&title=Profile+Views&edge_flat=false&style=flat-square&label_color=%232196f3&color=%23181717" alt="Visitor Counter" />
 
 </div>
 ---
@@ -64,17 +63,15 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhuitron&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&border_radius=10" alt="My GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhuitron&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="My GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuitron&layout=compact&theme=tokyonight&border_radius=10&hide_title=true" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuitron&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuitron&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuitron&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="98%" />
+</p>
 
 ---
 
@@ -82,7 +79,7 @@
 
 When I am not debugging or structuring data models, I focus on digital aesthetics—specifically portrait photography, framing, and playing with high-contrast photographic lighting.
 
-I also enjoy vintage hardware modification (Xbox 360 RGH systems, PS VITA) and listening to classic Spanish rock and traditional music (Enjambre, Caifanes, C. Tangana, José José).
+I also enjoy vintage hardware modification (Xbox 360 RGH systems) and listening to classic Spanish rock and traditional music (Enjambre, Caifanes, Cafe Tacuba, C. Tangana, José José).
 
 📬 **How to reach me:** Feel free to explore my public repositories or check out my active project logs right here on GitHub!
 
