@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Ian+Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
 
   <p>
     I merge my technical background in **Fiscal and Accounting Computing** with formal **Informatics training at UNAM (FES Cuautitlán)**.
