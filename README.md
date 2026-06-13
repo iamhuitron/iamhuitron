@@ -1,19 +1,60 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Ian+Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
 
-  <p>
-    I merge my technical background in **Fiscal and Accounting Computing** with formal **Informatics training at UNAM (FES Cuautitlán)**.
-    I love building clean, highly optimized mobile and web applications with strong data logic.
-  </p>
-  
+<table>
+<tr>
+<td width="58%" valign="middle" align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Ian+Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
+
+<p>
+  I merge my technical background in <strong>Fiscal and Accounting Computing</strong> with formal
+  <strong>Informatics training at UNAM</strong>.<br/>
+  I love building clean, highly optimized mobile and web applications with strong data logic.
+</p>
+
+<a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/miguel.huitron.07">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:ianhuitron0687@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=iamhuitron&style=flat-square&color=2196F3" alt="Profile views" />
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coder animation"/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+### 🧩 Where Code Meets the Ledger
+
+> *Most developers write logic. I also balance it.*
+
+I hold a rare dual background that shapes everything I build:
+
+| 💼 Fiscal & Accounting Computing | 🎓 Informatics & Computing — UNAM |
+|:---|:---|
+| Financial data structures & reporting | Algorithms & system architecture |
+| Spreadsheet automation & fiscal logic | Web & mobile development |
+| Process thinking & regulatory precision | Clean code & design patterns |
+
+This combination lets me think in **systems** — not just features.
+
 ---
 
 ### 📱 Key Project: FlowDay
-
 > Personal productivity and habit tracking mobile app.
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,6 +74,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -61,6 +103,22 @@
 
 ---
 
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+```text
+Mobile Dev     ████████████████░░░░   80%
+Backend / API  ████████░░░░░░░░░░░░   40%
+Python         █████░░░░░░░░░░░░░░░   25%
+```
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -71,10 +129,12 @@
 
 ### 🎨 Beyond the Code
 
-When I am not debugging or structuring data models, I focus on digital aesthetics—specifically portrait photography, framing, and playing with high-contrast photographic lighting.
+When I'm not debugging or structuring data models, I focus on digital aesthetics — specifically **portrait photography**, framing, and playing with high-contrast lighting.
 
-I also enjoy vintage hardware modification (Xbox 360 RGH systems) and listening to classic Spanish rock and traditional music (Enjambre, Caifanes, Cafe Tacuba, C. Tangana, José José).
-
-📬 **How to reach me:** Feel free to explore my public repositories or check out my active project logs right here on GitHub!
+I also enjoy **vintage hardware modification** (Xbox 360 RGH systems and PS Vita) and listening to classic Spanish rock and traditional music: Enjambre, Caifanes, Café Tacuba, C. Tangana, José José.
 
 ---
+
+<div align="center">
+  <i>"La música más hermosa del mundo es la que no se ha escrito todavía." — Caifanes</i>
+</div>
