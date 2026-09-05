@@ -1,140 +1,47 @@
-<div align="center">
+# Hi, I'm Ian Miguel Delgado Huitron (@iamhuitron) 👋
 
-<table>
-<tr>
-<td width="58%" valign="middle" align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Ian+Miguel+Delgado+Huitron+👋;Informatics+%26+Computing+Student+(UNAM);Fiscal+%26+Accounting+Computing+Tech;React+Native+%26+TypeScript+Developer" alt="Typing SVG" />
-
-<p>
-  I merge my technical background in <strong>Fiscal and Accounting Computing</strong> with formal
-  <strong>Informatics training at UNAM</strong>.<br/>
-  I love building clean, highly optimized mobile and web applications with strong data logic.
+<p align="left">
+  <a href="https://portfolio-pink-five-jaih91sunw.vercel.app/"><img src="https://img.shields.io/badge/Live-Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ianhuitron0687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/miguel.huitron.07">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:ianhuitron0687@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 🚀 About Me
+Software developer and **Informatics undergraduate at UNAM (FES Cuautitlán)** with a technical degree in **Fiscal & Accounting Computing**.
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=iamhuitron&style=flat-square&color=2196F3" alt="Profile views" />
+**My Differentiator:** I bridge the gap between technical software architecture and real-world business constraints. Having worked in municipal public accounting and internal audit, I build applications with extreme respect for data integrity, financial math precision, and offline performance.
 
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coder animation"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+* 📍 Based in: State of Mexico / CDMX (Open to 100% Remote across LATAM & US Nearshore).
+* 🎯 Status: **Actively interviewing for Junior Software Engineer, Frontend/Mobile, and FinTech roles.**
+* 🌐 Languages: Spanish (Native), English (B2 Intermediate - technical writing & async collaboration).
 
 ---
 
-### 🧩 Where Code Meets the Ledger
+### 🛠️ Core Engineering Stack
 
-> *Most developers write logic. I also balance it.*
-
-I hold a rare dual background that shapes everything I build:
-
-| 💼 Fiscal & Accounting Computing | 🎓 Informatics & Computing — UNAM |
-|:---|:---|
-| Financial data structures & reporting | Algorithms & system architecture |
-| Spreadsheet automation & fiscal logic | Web & mobile development |
-| Process thinking & regulatory precision | Clean code & design patterns |
-
-This combination lets me think in **systems** — not just features.
-
----
-
-### 📱 Key Project: FlowDay
-> Personal productivity and habit tracking mobile app.
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo 52](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-D64D1E?style=for-the-badge&logo=react&logoColor=white)
-![MMKV](https://img.shields.io/badge/MMKV-FFCB2B?style=for-the-badge&logo=javascript&logoColor=black)
-![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-### 🛠️ Technical Stack & Tools
-
-<details open>
-<summary><b>Languages & Core</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
-
-<details open>
-<summary><b>Frameworks & State</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-</details>
-
-<details open>
-<summary><b>Data & Environments</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux_Mint-97C93A?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-</p>
-</details>
-
----
-
-### 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-```text
-Mobile Dev     ████████████████░░░░   80%
-Backend / API  ████████░░░░░░░░░░░░   40%
-Python         █████░░░░░░░░░░░░░░░   25%
+```
+Mobile & Frontend:  React Native · Expo (SDK 52, New Architecture) · React 19 · Next.js · TypeScript
+State & Storage:    Zustand · MMKV · IndexedDB · Context API · Web Workers
+Algorithms & Data:  Backtracking Search · Constraint Satisfaction · Client-Side OCR · XML/PDF Parsing
+DevOps & Tooling:   GitHub Actions (Automated CI/CD, Signed APKs) · Git · Vercel · Linux/Bash
+FinTech & Systems:  Python · Java (OOP) · SAT CFDI 4.0 · Anexo 20 Math · EFOS Art. 69-B Sentinel
 ```
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Featured Open-Source & Production Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuitron&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### 🎨 Beyond the Code
-
-When I'm not debugging or structuring data models, I focus on digital aesthetics — specifically **portrait photography**, framing, and playing with high-contrast lighting.
-
-I also enjoy **vintage hardware modification** (Xbox 360 RGH systems and PS Vita) and listening to classic Spanish rock and traditional music: Enjambre, Caifanes, Café Tacuba, C. Tangana, José José.
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **[CFDI Sentinel](https://github.com/iamhuitron/cfdi-sentinel)** | Next.js, React 19, TypeScript, Web Workers, Fast-XML | In-browser CFDI 4.0 fiscal auditor. Audits XMLs/ZIPs in memory, validates Anexo 20 tax formulas, and screens suppliers against SAT Art. 69-B blacklist in $O(1)$ time. | [Repo](https://github.com/iamhuitron/cfdi-sentinel) |
+| **[CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)** | Python 3.10+, Standard Library, CI/CD, CLI | Lightweight, zero-dependency Python package and CLI for high-throughput batch CFDI XML validation and tax fraud prevention. | [Repo](https://github.com/iamhuitron/cfdi-sat-engine) |
+| **[FlowDay](https://github.com/iamhuitron/Flowday)** | React Native, Expo SDK 52, Zustand, MMKV, GitHub Actions | Cross-platform offline-first mobile productivity suite. Sub-millisecond MMKV persistence and automated signed APK delivery via GitHub Actions. | [Demo](https://flowday-rho.vercel.app/) · [Repo](https://github.com/iamhuitron/Flowday) |
+| **[UniSched Optimizer](https://github.com/iamhuitron/UniSched-Optimizer)** | Next.js, TypeScript, React, pdf.js, Tesseract.js | Resolves university course conflicts using a backtracking and constraint-satisfaction algorithm with client-side OCR and PDF parsing. | [Demo](https://uni-sched-optimizer.vercel.app/) · [Repo](https://github.com/iamhuitron/UniSched-Optimizer) |
+| **[WhatsApp Networking Hub](https://github.com/iamhuitron/whatsapp-networking-hub)** | Next.js, TypeScript, React, IndexedDB, Tailwind CSS | Client-side networking directory from exported chat logs with zero server storage. | [Demo](https://whatsapp-networking-hub.vercel.app) · [Repo](https://github.com/iamhuitron/whatsapp-networking-hub) |
 
 ---
 
-<div align="center">
-  <i>"La música más hermosa del mundo es la que no se ha escrito todavía." — Caifanes</i>
-</div>
+### 📬 Connect With Me
+* 🌐 Portfolio: [portfolio-pink-five-jaih91sunw.vercel.app](https://portfolio-pink-five-jaih91sunw.vercel.app/)
+* 💼 LinkedIn: [linkedin.com/in/ian-miguel-delgado-huitron-18b035349](https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/)
+* ✉️ Direct Email: [ianhuitron0687@gmail.com](mailto:ianhuitron0687@gmail.com)
