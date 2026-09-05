@@ -2,17 +2,19 @@
 
 <p align="left">
   <a href="https://portfolio-pink-five-jaih91sunw.vercel.app/"><img src="https://img.shields.io/badge/Live-Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador 2026" />
   <a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ianhuitron0687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 🚀 About Me
-Software developer and **Informatics undergraduate at UNAM (FES Cuautitlán)** with a technical degree in **Fiscal & Accounting Computing**.
+Software developer, **Google Student Ambassador 2026**, and **Informatics undergraduate at UNAM (FES Cuautitlán)** with a technical degree in **Fiscal & Accounting Computing**.
 
 **My Differentiator:** I bridge the gap between technical software architecture and real-world business constraints. Having worked in municipal public accounting and internal audit, I build applications with extreme respect for data integrity, financial math precision, and offline performance.
 
+* 🌟 **Google Student Ambassador 2026:** Representing Google and leading developer workshops, AI community initiatives, and tech adoption at UNAM.
 * 📍 Based in: State of Mexico / CDMX (Open to 100% Remote across LATAM & US Nearshore).
-* 🎯 Status: **Actively interviewing for Junior Software Engineer, Frontend/Mobile, and FinTech roles.**
+* 🎯 Status: **Actively interviewing for Junior Software Engineer, Internships, Frontend/Mobile, and FinTech roles.**
 * 🌐 Languages: Spanish (Native), English (B2 Intermediate - technical writing & async collaboration).
 
 ---
