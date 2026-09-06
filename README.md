@@ -45,7 +45,8 @@ Domain Expertise:   Mexican SAT CFDI 4.0 / Anexo 20 · Art. 69-B EFOS Detection 
 **Co-Founder & Lead Engineer** · *Commercial Software & Business Platforms*
 - Independent software development studio building high-conversion capture websites, relational inventory/POS systems, and fiscal processors for Mexican businesses.
 - Engineered 5 production-ready interactive simulators running client-side with zero cloud cold-starts: **PyME Manager** (SQL inventory), **MediCitas Pro** (medical scheduling), **SAT Sentinel** (tax auditor), **AutoQuote Pro** (wholesale quoting), and **FoodOrder Pro** (direct kitchen order dispatch).
-- **Links:** [Organization](https://github.com/Xaol-Studio) · [Live Platform](https://xaol-website.vercel.app)
+- Architected the open-source [`pyme-manager-core`](https://github.com/Xaol-Studio/pyme-manager-core) engine: deterministic integer-cents financial math, SAT Anexo 20 tax reconciliation, and transactional POS cart state machines with native CI/CD.
+- **Links:** [Organization](https://github.com/Xaol-Studio) · [Core Engine](https://github.com/Xaol-Studio/pyme-manager-core) · [Live Platform](https://xaol-website.vercel.app)
 
 #### 🛡️ [CFDI Sentinel](https://github.com/iamhuitron/cfdi-sentinel)
 **In-Browser CFDI 4.0 Fiscal Auditor & Anexo 20 Engine** · *TypeScript, Next.js 15, Web Workers, Vitest*
