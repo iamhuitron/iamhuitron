@@ -1,49 +1,99 @@
-# Hi, I'm Ian Miguel Delgado Huitron (@iamhuitron) 👋
+# Ian Miguel Delgado Huitrón
 
 <p align="left">
-  <a href="https://portfolio-pink-five-jaih91sunw.vercel.app/"><img src="https://img.shields.io/badge/Live-Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador 2026" />
-  <a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ianhuitron0687@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <strong>Software Engineer & Systems Builder</strong> · Co-Founder & Tech Lead at <a href="https://github.com/Xaol-Studio"><strong>@Xaol-Studio</strong></a><br>
+  Informatics Undergraduate at <strong>UNAM (FES Cuautitlán)</strong> · <strong>Google Student Ambassador 2026</strong>
 </p>
 
-### 🚀 About Me
-Software developer, **Google Student Ambassador 2026**, and **Informatics undergraduate at UNAM (FES Cuautitlán)** with a technical degree in **Fiscal & Accounting Computing**.
-
-**My Differentiator:** I bridge the gap between technical software architecture and real-world business constraints. Having worked in municipal public accounting and internal audit, I build applications with extreme respect for data integrity, financial math precision, and offline performance.
-
-* 🌟 **Google Student Ambassador 2026:** Representing Google and leading developer workshops, AI community initiatives, and tech adoption at UNAM.
-* 📍 Based in: State of Mexico / CDMX (Open to 100% Remote across LATAM & US Nearshore).
-* 🎯 Status: **Actively interviewing for Junior Software Engineer, Internships, Frontend/Mobile, and FinTech roles.**
-* 🌐 Languages: Spanish (Native), English (B2 Intermediate - technical writing & async collaboration).
+<p align="left">
+  <a href="https://portfolio-pink-five-jaih91sunw.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/Studio-@Xaol--Studio-059669?style=flat-square&logo=github&logoColor=white" alt="Xaol Studio" /></a>
+  <a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ianhuitron0687@gmail.com"><img src="https://img.shields.io/badge/Email-ianhuitron0687@gmail.com-d97706?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-CDMX%20%2F%20Edo.%20M%C3%A9x-475569?style=flat-square" alt="Location" />
+</p>
 
 ---
 
-### 🛠️ Core Engineering Stack
+### Executive Profile
+
+I design and engineer **deterministic software systems, high-speed client-side applications, and transactional data pipelines**. My technical background combines computer science fundamentals at UNAM with practical experience in municipal public accounting and internal audit. 
+
+This gives me a concrete engineering edge: I build software with extreme discipline regarding **data integrity, financial arithmetic precision, zero-knowledge privacy, and offline performance**.
+
+- **Co-Founder & Technical Lead** at [XAOL Software Studio](https://github.com/Xaol-Studio): Architecting custom web platforms, inventory management engines, and compliance tools for PyMEs and enterprises.
+- **Google Student Ambassador 2026**: Leading technical workshops, AI developer initiatives, and student engineering communities across UNAM campus.
+- **Engineering Philosophy**: Prefer client-side computation and local-first storage when privacy matters; enforce strict relational database constraints over loose application-level checks; design for sub-millisecond lookups and zero external runtime bloat.
+
+---
+
+### Engineering Stack
 
 ```
-Mobile & Frontend:  React Native · Expo (SDK 52, New Architecture) · React 19 · Next.js · TypeScript
-State & Storage:    Zustand · MMKV · IndexedDB · Context API · Web Workers
-Algorithms & Data:  Backtracking Search · Constraint Satisfaction · Client-Side OCR · XML/PDF Parsing
-DevOps & Tooling:   GitHub Actions (Automated CI/CD, Signed APKs) · Git · Vercel · Linux/Bash
-FinTech & Systems:  Python · Java (OOP) · SAT CFDI 4.0 · Anexo 20 Math · EFOS Art. 69-B Sentinel
+Core Languages:     TypeScript · Python · Go · Java · SQL (PostgreSQL, SQLite)
+Frontend & Mobile:  Next.js (App Router) · React 19 · React Native / Expo (SDK 52) · Tailwind CSS
+State & Storage:    Zustand · MMKV (Sub-ms) · IndexedDB · Web Workers · Redis
+Systems & DevOps:   Docker · GitHub Actions (Automated CI/CD, Signed APKs) · Linux/Bash · Vercel
+Domain Expertise:   Mexican SAT CFDI 4.0 / Anexo 20 · Art. 69-B EFOS Detection · Constraint Solvers
 ```
 
 ---
 
-### 🏆 Featured Open-Source & Production Projects
+### Flagship Systems & Production Repositories
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **[CFDI Sentinel](https://github.com/iamhuitron/cfdi-sentinel)** | Next.js, React 19, TypeScript, Web Workers, Fast-XML | In-browser CFDI 4.0 fiscal auditor. Audits XMLs/ZIPs in memory, validates Anexo 20 tax formulas, and screens suppliers against SAT Art. 69-B blacklist in $O(1)$ time. | [Repo](https://github.com/iamhuitron/cfdi-sentinel) |
-| **[CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)** | Python 3.10+, Standard Library, CI/CD, CLI | Lightweight, zero-dependency Python package and CLI for high-throughput batch CFDI XML validation and tax fraud prevention. | [Repo](https://github.com/iamhuitron/cfdi-sat-engine) |
-| **[FlowDay](https://github.com/iamhuitron/Flowday)** | React Native, Expo SDK 52, Zustand, MMKV, GitHub Actions | Cross-platform offline-first mobile productivity suite. Sub-millisecond MMKV persistence and automated signed APK delivery via GitHub Actions. | [Demo](https://flowday-rho.vercel.app/) · [Repo](https://github.com/iamhuitron/Flowday) |
-| **[UniSched Optimizer](https://github.com/iamhuitron/UniSched-Optimizer)** | Next.js, TypeScript, React, pdf.js, Tesseract.js | Resolves university course conflicts using a backtracking and constraint-satisfaction algorithm with client-side OCR and PDF parsing. | [Demo](https://uni-sched-optimizer.vercel.app/) · [Repo](https://github.com/iamhuitron/UniSched-Optimizer) |
-| **[WhatsApp Networking Hub](https://github.com/iamhuitron/whatsapp-networking-hub)** | Next.js, TypeScript, React, IndexedDB, Tailwind CSS | Client-side networking directory from exported chat logs with zero server storage. | [Demo](https://whatsapp-networking-hub.vercel.app) · [Repo](https://github.com/iamhuitron/whatsapp-networking-hub) |
+#### 🏢 [XAOL Software Studio](https://github.com/Xaol-Studio)
+**Co-Founder & Lead Engineer** · *Commercial Software & Business Platforms*
+- Independent software development studio building high-conversion capture websites, relational inventory/POS systems, and fiscal processors for Mexican businesses.
+- Engineered 5 production-ready interactive simulators running client-side with zero cloud cold-starts: **PyME Manager** (SQL inventory), **MediCitas Pro** (medical scheduling), **SAT Sentinel** (tax auditor), **AutoQuote Pro** (wholesale quoting), and **FoodOrder Pro** (direct kitchen order dispatch).
+- **Links:** [Organization](https://github.com/Xaol-Studio) · [Live Platform](https://xaol-website.vercel.app)
+
+#### 🛡️ [CFDI Sentinel](https://github.com/iamhuitron/cfdi-sentinel)
+**In-Browser CFDI 4.0 Fiscal Auditor & Anexo 20 Engine** · *TypeScript, Next.js 15, Web Workers, Vitest*
+- 100% client-side zero-knowledge architecture: parses thousands of XMLs and ZIP packages in memory without transmitting sensitive financial records to external servers.
+- Evaluates mathematical consistency of taxes, discounts, and retentions according to SAT Anexo 20 specifications.
+- Screens suppliers in $O(1)$ time against the official Art. 69-B SAT blacklist (EFOS / simulated operations).
+- **Links:** [Repository](https://github.com/iamhuitron/cfdi-sentinel) · [Live Demo](https://xaol-website.vercel.app/demo/sat-sentinel.html)
+
+#### 🐍 [CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)
+**High-Throughput Batch CFDI Validator & CLI** · *Python 3.10+, Standard Library, CI/CD*
+- Lightweight, zero-dependency Python package and CLI engineered for server environments, ERP pipelines, and batch tax fraud prevention.
+- Features automated GitHub Actions CI pipeline, multi-platform unit tests, and instant CSV/JSON report exports.
+- **Links:** [Repository](https://github.com/iamhuitron/cfdi-sat-engine)
+
+#### 📱 [FlowDay](https://github.com/iamhuitron/Flowday)
+**Offline-First Mobile Productivity Suite** · *React Native, Expo SDK 52 (New Architecture), Zustand, MMKV*
+- Sub-millisecond synchronous storage via native MMKV bindings, preventing UI hitching or state desynchronization.
+- Automated delivery pipeline: GitHub Actions builds, tests, signs, and releases production APKs automatically on version tag.
+- **Links:** [Repository](https://github.com/iamhuitron/Flowday) · [Web Demo](https://flowday-rho.vercel.app/)
+
+#### 🗓️ [UniSched Optimizer](https://github.com/iamhuitron/UniSched-Optimizer)
+**Combinatorial University Schedule Solver** · *TypeScript, React, pdf.js, Tesseract.js*
+- Backtracking algorithm with constraint satisfaction that evaluates thousands of course/group combinations against user-defined time windows and free-day rules.
+- Includes client-side OCR and raw PDF timetable parsing running entirely in the browser.
+- **Links:** [Repository](https://github.com/iamhuitron/UniSched-Optimizer) · [Live Demo](https://uni-sched-optimizer.vercel.app/)
+
+#### ⚓ [NetNaval](https://github.com/iamhuitron/NetNaval)
+**Distributed Desktop Game & Real-Time Network Chat** · *Go, Wails v2, WebSockets*
+- Cross-platform native desktop application packaging Go concurrency and network state with a modern web frontend.
+- Resilient peer-to-peer and client-server socket protocol with automated game state recovery.
+- **Links:** [Repository](https://github.com/iamhuitron/NetNaval)
 
 ---
 
-### 📬 Connect With Me
-* 🌐 Portfolio: [portfolio-pink-five-jaih91sunw.vercel.app](https://portfolio-pink-five-jaih91sunw.vercel.app/)
-* 💼 LinkedIn: [linkedin.com/in/ian-miguel-delgado-huitron-18b035349](https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/)
-* ✉️ Direct Email: [ianhuitron0687@gmail.com](mailto:ianhuitron0687@gmail.com)
+### Technical Metrics & Commitments
+
+- **100% Privacy by Design:** All financial tools operate client-side or on self-hosted infrastructure. Zero third-party telemetry on sensitive fiscal data.
+- **Performance Benchmarks:** Sub-50ms query responses on local IndexedDB/MMKV schemas; zero-layout-shift UI architectures.
+- **Continuous Delivery:** Strict CI/CD workflows across projects enforcing type checking, linting, and automated unit testing prior to merge.
+
+---
+
+### Contact & Collaboration
+
+I am open to technical discussions, freelance engineering contracts through **XAOL Studio**, and select **Junior Software Engineer / Full Stack / FinTech** roles (Remote or Hybrid in CDMX / State of Mexico).
+
+- **GitHub:** [@iamhuitron](https://github.com/iamhuitron)
+- **Studio:** [github.com/Xaol-Studio](https://github.com/Xaol-Studio)
+- **Email:** [ianhuitron0687@gmail.com](mailto:ianhuitron0687@gmail.com)
+- **LinkedIn:** [Ian Miguel Delgado Huitrón](https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/)
+- **WhatsApp (Business / Studio):** [+52 593 126 9253](https://wa.me/525931269253)
