@@ -1,7 +1,7 @@
 # Ian Miguel Delgado Huitrón
 
 <p align="left">
-  <strong>Software Engineer & Systems Builder</strong> · Co-Founder & Tech Lead at <a href="https://github.com/Xaol-Studio"><strong>@Xaol-Studio</strong></a><br>
+  <strong>Data & Software Engineer · Systems Builder</strong> · Co-Founder & Tech Lead at <a href="https://github.com/Xaol-Studio"><strong>@Xaol-Studio</strong></a><br>
   Informatics Undergraduate at <strong>UNAM (FES Cuautitlán)</strong> · <strong>Google Student Ambassador 2026</strong>
 </p>
 
@@ -17,49 +17,83 @@
 
 ### Executive Profile
 
-I design and engineer **deterministic software systems, high-speed client-side applications, and transactional data pipelines**. My technical background combines computer science fundamentals at UNAM with practical experience in municipal public accounting and internal audit. 
+I engineer **high-performance data pipelines, embedded OLAP engines, and deterministic software systems**. My technical foundation combines computer science at UNAM with practical experience in municipal public accounting and fiscal auditing.
 
-This gives me a concrete engineering edge: I build software with extreme discipline regarding **data integrity, financial arithmetic precision, zero-knowledge privacy, and offline performance**.
+Currently, I specialize in **Data Engineering & Applied Analytics**, designing scalable data lakes, zero-copy columnar ingestion pipelines (Apache Arrow + DuckDB + Parquet), and econometric time-series models for Mexican financial and retail markets.
 
-- **Co-Founder & Technical Lead** at [XAOL Software Studio](https://github.com/Xaol-Studio): Architecting custom web platforms, inventory management engines, and compliance tools for PyMEs and enterprises.
-- **Google Student Ambassador 2026**: Leading technical workshops, AI developer initiatives, and student engineering communities across UNAM campus.
-- **Engineering Philosophy**: Prefer client-side computation and local-first storage when privacy matters; enforce strict relational database constraints over loose application-level checks; design for sub-millisecond lookups and zero external runtime bloat.
-
----
-
-### Engineering Stack
-
-```
-Core Languages:     TypeScript · Python · Go · Java · SQL (PostgreSQL, SQLite)
-Frontend & Mobile:  Next.js (App Router) · React 19 · React Native / Expo (SDK 52) · Tailwind CSS
-State & Storage:    Zustand · MMKV (Sub-ms) · IndexedDB · Web Workers · Redis
-Systems & DevOps:   Docker · GitHub Actions (Automated CI/CD, Signed APKs) · Linux/Bash · Vercel
-Domain Expertise:   Mexican SAT CFDI 4.0 / Anexo 20 · Art. 69-B EFOS Detection · Constraint Solvers
-```
+- **Data Engineering & FinTech Core**: Building high-throughput ETL engines for Mexican SAT CFDI 4.0 XMLs, Banxico macroeconomic series, and transactional PyME retail datasets with zero external runtime expenses ($0 budget architectures).
+- **Co-Founder & Technical Lead** at [XAOL Software Studio](https://github.com/Xaol-Studio): Architecting custom web platforms, relational inventory/POS engines, and compliance tools for Mexican businesses.
+- **Google Student Ambassador 2026**: Organizing technical workshops, developer conferences, and AI/data initiatives across UNAM campus.
+- **Engineering Principles**: Columnar-first storage (Parquet/Arrow); embedded analytical SQL (DuckDB); zero-knowledge client-side computation; strict automated test coverage across all releases.
 
 ---
 
-### Flagship Systems & Production Repositories
+### Engineering & Data Stack
+
+```
+Data Engineering:    DuckDB (OLAP) · Apache Arrow (PyArrow) · Parquet · Hive Partitioning · Streaming XML (lxml)
+Data Science:        Pandas · NumPy · RFM Segmentation · ABC Pareto Analysis · Market Basket (Apriori) · Econometrics
+Languages:           Python 3.10+ · TypeScript · SQL (PostgreSQL, SQLite, DuckDB) · Go · Java · PHP
+Web & Mobile:        Next.js 15/16 (App Router) · React 19 · React Native / Expo (SDK 52) · Tailwind CSS
+State & Storage:     Zustand · MMKV · IndexedDB · Web Workers · Zero-Knowledge Local-First
+Systems & DevOps:    GitHub Actions CI/CD · Docker · Linux/Bash · Git · Pytest · Vitest
+Domain Expertise:    Mexican SAT CFDI 4.0 / Anexo 20 · SAT Art. 69-B EFOS Detection · Banxico SIE API · IMSS 2026
+```
+
+---
+
+### Flagship Data Engineering & Analytics Systems
+
+#### ⚡ [SAT Data Pipeline](https://github.com/iamhuitron/sat-data-pipeline)
+**High-Performance XML-to-Parquet ETL & DuckDB Analytics Engine** · *Python 3.12, DuckDB, Apache Arrow, Parquet, pytest*
+- Ingests bulk Mexican SAT CFDI 4.0 XML invoices via memory-constant chunked XML parsing (`lxml`).
+- Batches records into zero-copy Apache Arrow tables, persisting into Hive-partitioned columnar Parquet lakes (`year=YYYY/month=MM`).
+- Executes sub-second analytical SQL queries over hundreds of thousands of fiscal records using an embedded DuckDB OLAP engine.
+- Instant $O(1)$ hash cross-referencing against the official Mexican SAT Article 69-B EFOS (shell company) blacklist.
+- **Links:** [Repository](https://github.com/iamhuitron/sat-data-pipeline)
+
+#### 📈 [Banxico Series Pipeline](https://github.com/iamhuitron/banxico-series-pipeline)
+**Automated Macroeconomic ETL & Econometric Time-Series Engine** · *Python 3.12, DuckDB, Apache Arrow, Parquet, pytest*
+- Automated data pipeline extracting official Mexican central bank indicators (USD/MXN FIX, TIIE 28d, UDIS, INPC inflation) from the Banxico SIE API.
+- Stores historical time-series in an embedded DuckDB data lake with partitioned Parquet backing.
+- Codifies econometric routines: automated Fisher equation calculation (nominal TIIE vs. YoY INPC inflation to compute real interest rates) and cross-series Pearson correlation matrices.
+- **Links:** [Repository](https://github.com/iamhuitron/banxico-series-pipeline)
+
+#### 🛒 [PyME Data Analytics](https://github.com/iamhuitron/pyme-data-analytics)
+**Transactional Retail Data Science & Inventory Intelligence** · *Python 3.12, DuckDB, PyArrow, Parquet, pytest*
+- Production-grade data analytics engine converting raw transactional sales and stock histories into operational business intelligence for Mexican PyMEs.
+- Quantile-based RFM (Recency, Frequency, Monetary) customer segmentation with behavioral cohort categorization (*Champions, Loyal, At Risk, Hibernating*).
+- ABC Pareto (80/20) inventory classification, statistical Reorder Point (ROP) calculation, and Market Basket association rules (Apriori Support, Confidence, Lift).
+- **Links:** [Repository](https://github.com/iamhuitron/pyme-data-analytics)
+
+#### 🏛️ [Statix](https://github.com/iamhuitron/Statix)
+**Municipal Fiscal Audit Analytics & Automated PDF Reconciliation** · *Python, Streamlit, ReportLab, Pandas, pytest*
+- Born directly out of municipal government accounting experience: automates invoice reconciliation and municipal ledger matching.
+- Generates structured, audit-ready compliance PDF reports programmatically with ReportLab.
+- Comprehensive 42-test pytest suite guaranteeing calculation accuracy across tax brackets and ledger entries.
+- **Links:** [Repository](https://github.com/iamhuitron/Statix)
+
+---
+
+### Software Engineering & Client-Side Systems
 
 #### 🏢 [XAOL Software Studio](https://github.com/Xaol-Studio)
 **Co-Founder & Lead Engineer** · *Commercial Software & Business Platforms*
-- Independent software development studio building high-conversion capture websites, relational inventory/POS systems, and fiscal processors for Mexican businesses.
-- Engineered 5 production-ready interactive simulators running client-side with zero cloud cold-starts: **PyME Manager** (SQL inventory), **MediCitas Pro** (medical scheduling), **SAT Sentinel** (tax auditor), **AutoQuote Pro** (wholesale quoting), and **FoodOrder Pro** (direct kitchen order dispatch).
+- Independent software development studio building capture websites, relational inventory/POS engines, and fiscal processors for Mexican businesses.
 - Architected the open-source [`pyme-manager-core`](https://github.com/Xaol-Studio/pyme-manager-core) engine: deterministic integer-cents financial math, SAT Anexo 20 tax reconciliation, and transactional POS cart state machines with native CI/CD.
 - **Links:** [Organization](https://github.com/Xaol-Studio) · [Core Engine](https://github.com/Xaol-Studio/pyme-manager-core) · [Live Platform](https://xaol-website.vercel.app)
 
 #### 🛡️ [CFDI Sentinel](https://github.com/iamhuitron/cfdi-sentinel)
-**In-Browser CFDI 4.0 Fiscal Auditor & Anexo 20 Engine** · *TypeScript, Next.js 15, Web Workers, Vitest*
+**In-Browser CFDI 4.0 Fiscal Auditor & SAT Art. 69-B Sentinel** · *TypeScript, Next.js 15, Web Workers, Vitest*
 - 100% client-side zero-knowledge architecture: parses thousands of XMLs and ZIP packages in memory without transmitting sensitive financial records to external servers.
-- Evaluates mathematical consistency of taxes, discounts, and retentions according to SAT Anexo 20 specifications.
-- Screens suppliers in $O(1)$ time against the official Art. 69-B SAT blacklist (EFOS / simulated operations).
+- Screens suppliers in $O(1)$ time against the official Art. 69-B SAT blacklist (EFOS / simulated operations) and validates Anexo 20 tax formulas.
 - **Links:** [Repository](https://github.com/iamhuitron/cfdi-sentinel) · [Live Demo](https://xaol-website.vercel.app/demo/sat-sentinel.html)
 
-#### 🐍 [CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)
-**High-Throughput Batch CFDI Validator & CLI** · *Python 3.10+, Standard Library, CI/CD*
-- Lightweight, zero-dependency Python package and CLI engineered for server environments, ERP pipelines, and batch tax fraud prevention.
-- Features automated GitHub Actions CI pipeline, multi-platform unit tests, and instant CSV/JSON report exports.
-- **Links:** [Repository](https://github.com/iamhuitron/cfdi-sat-engine)
+#### 💼 [Nomina-Matrix](https://github.com/iamhuitron/nomina-matrix)
+**Mexican Payroll Reverse-Engineering (Net-to-Gross) & IMSS 2026 Labor Suite** · *Next.js 15, TypeScript, SheetJS, Vitest*
+- Inverts progressive Mexican income tax curves (ISR Art. 96) via sub-cent binary search convergence in < 25 iterations.
+- Full compliance with 2026 progressive IMSS pension quotas and statutory LFT termination calculations.
+- **Links:** [Repository](https://github.com/iamhuitron/nomina-matrix)
 
 #### 📱 [FlowDay](https://github.com/iamhuitron/Flowday)
 **Offline-First Mobile Productivity Suite** · *React Native, Expo SDK 52 (New Architecture), Zustand, MMKV*
@@ -73,25 +107,19 @@ Domain Expertise:   Mexican SAT CFDI 4.0 / Anexo 20 · Art. 69-B EFOS Detection 
 - Includes client-side OCR and raw PDF timetable parsing running entirely in the browser.
 - **Links:** [Repository](https://github.com/iamhuitron/UniSched-Optimizer) · [Live Demo](https://uni-sched-optimizer.vercel.app/)
 
-#### ⚓ [NetNaval](https://github.com/iamhuitron/NetNaval)
-**Distributed Desktop Game & Real-Time Network Chat** · *Go, Wails v2, WebSockets*
-- Cross-platform native desktop application packaging Go concurrency and network state with a modern web frontend.
-- Resilient peer-to-peer and client-server socket protocol with automated game state recovery.
-- **Links:** [Repository](https://github.com/iamhuitron/NetNaval)
-
 ---
 
 ### Technical Metrics & Commitments
 
-- **100% Privacy by Design:** All financial tools operate client-side or on self-hosted infrastructure. Zero third-party telemetry on sensitive fiscal data.
-- **Performance Benchmarks:** Sub-50ms query responses on local IndexedDB/MMKV schemas; zero-layout-shift UI architectures.
-- **Continuous Delivery:** Strict CI/CD workflows across projects enforcing type checking, linting, and automated unit testing prior to merge.
+- **100% Zero-Cost / High Efficiency:** All data pipelines and analytics suites run on local, embedded engines (DuckDB, Parquet, PyArrow) without incurring expensive cloud or managed database bills.
+- **100% Privacy by Design:** Financial and fiscal tools operate client-side or on self-hosted infrastructure. Zero third-party telemetry on sensitive fiscal data.
+- **Automated Verification:** Strict CI/CD workflows across projects enforcing multi-version testing, type checking, linting, and automated unit testing prior to merge.
 
 ---
 
 ### Contact & Collaboration
 
-I am open to technical discussions, freelance engineering contracts through **XAOL Studio**, and select **Junior Software Engineer / Full Stack / FinTech** roles (Remote or Hybrid in CDMX / State of Mexico).
+I am open to technical discussions, freelance engineering contracts through **XAOL Studio**, and select **Data Engineer / Data Analyst / Software Engineer** roles (Remote or Hybrid in CDMX / State of Mexico).
 
 - **GitHub:** [@iamhuitron](https://github.com/iamhuitron)
 - **Studio:** [github.com/Xaol-Studio](https://github.com/Xaol-Studio)
