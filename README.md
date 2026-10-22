@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://iamhuitron.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://iamhuitron.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/Studio-@Xaol--Studio-059669?style=flat-square&logo=github&logoColor=white" alt="Xaol Studio" /></a>
   <a href="https://www.linkedin.com/in/ian-miguel-delgado-huitron-18b035349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ianhuitron0687@gmail.com"><img src="https://img.shields.io/badge/Email-ianhuitron0687@gmail.com-d97706?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
